@@ -1,6 +1,6 @@
 {
-  "name": "My Cool App",
-  "short_name": "CoolApp",
+  "name": "文字数カウント",
+  "short_name": "文字数",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,4 +17,5 @@
       "type": "image/png"
     }
   ]
+
 }
